@@ -1,0 +1,1 @@
+Code: {{ $user->verify_token }}
